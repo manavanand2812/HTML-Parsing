@@ -6,13 +6,13 @@ This project involves parsing three different HTML files, each containing a uniq
 
 ## Features
 
-    Parses three separate HTML files containing different tables.
-    Extracts and structures the table data for further processing.
-    Handles varying table formats dynamically.
-    Supports exporting the parsed data to CSV, JSON, or a database.
+    1) Parses three separate HTML files containing different tables.
+    2) Extracts and structures the table data for further processing.
+    3) Handles varying table formats dynamically.
+    4) Supports exporting the parsed data to CSV, JSON, or a database.
 
  ## Technologies Used
 
-    Python (for parsing and data processing)
-    BeautifulSoup (for HTML parsing)
-    Pandas (for data manipulation)
+    1) Python (for parsing and data processing)
+    2) BeautifulSoup (for HTML parsing)
+    3) Pandas (for data manipulation)
